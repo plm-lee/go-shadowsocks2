@@ -5,7 +5,7 @@ import (
 	"net"
 	"syscall"
 
-	"github.com/riobard/go-shadowsocks2/nfutil"
+	"github.com/plm-lee/go-shadowsocks2/nfutil"
 )
 
 func init() {

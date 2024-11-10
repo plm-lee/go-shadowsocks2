@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/riobard/go-shadowsocks2/socks"
+	"github.com/plm-lee/go-shadowsocks2/socks"
 )
 
 func tcpLocal(l net.Listener, d Dialer) {

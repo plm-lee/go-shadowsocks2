@@ -1,4 +1,4 @@
-module github.com/riobard/go-shadowsocks2
+module github.com/plm-lee/go-shadowsocks2
 
 go 1.15
 

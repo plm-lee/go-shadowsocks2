@@ -5,8 +5,8 @@ import (
 	"log"
 	"strings"
 
-	"github.com/riobard/go-shadowsocks2/core"
-	"github.com/riobard/go-shadowsocks2/listen"
+	"github.com/plm-lee/go-shadowsocks2/core"
+	"github.com/plm-lee/go-shadowsocks2/listen"
 )
 
 func main() {
